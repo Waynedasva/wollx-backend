@@ -1,9 +1,8 @@
 fastapi
 uvicorn
 pydantic
-MetaTrader5
 ta
 httpx
-requests
 python-dotenv
 aiofiles
+
